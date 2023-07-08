@@ -12,7 +12,7 @@
 - Javascript
 - Laravel
 - ReactJS
-- Bootstrap
+- Bootstrap & Tailwind
 - Mysql
 
 ### Get in touch
