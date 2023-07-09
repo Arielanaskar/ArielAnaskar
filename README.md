@@ -6,7 +6,7 @@
 - 👨‍🎓 I graduated from school as a web developer
 - 💬 Ask me about Javascript, PHP, Laravel, and ReactJS
 
-## Our Play Ground
+## My Play Ground
 
 - PHP as Primary Language
 - Javascript
