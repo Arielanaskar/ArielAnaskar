@@ -2,7 +2,7 @@
  
 "I am just a web development maestro who brings beauty to every line of code I write."
 
-- 🌓 17 yo
+- 🌓 18 yo
 - 👨‍🎓 I graduated from school as a web developer
 - 💬 Ask me about Javascript, PHP, Laravel, and ReactJS
 
